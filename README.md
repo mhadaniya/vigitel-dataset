@@ -1,2 +1,3 @@
 # vigitel-dataset
-Vigitel dataset not in pdf
+
+This is the Vigitel dataset not in pdf, because everybody knows that PDF is not the right way to make data accessible.
