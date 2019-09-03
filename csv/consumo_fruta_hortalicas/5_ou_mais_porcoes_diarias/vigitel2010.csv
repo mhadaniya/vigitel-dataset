@@ -1,28 +1,28 @@
-Cidade;Total;Masculino;Feminino
-Aracaju; 16,3 ; 14,0 ; 18,2
-Belém; 10,2 ; 8,5 ; 11,6
-Belo Horizonte; 24,5 ; 20,6 ; 27,8
-Boa Vista; 12,4 ; 10,3 ; 14,4
-Campo Grande; 18,1 ; 14,0 ; 21,8
-Cuiabá; 15,4 ; 10,9 ; 19,5
-Curitiba; 19,6 ; 15,8 ; 22,9
-Florianópolis; 24,8 ; 19,7 ; 29,4
-Fortaleza; 11,8 ; 10,1 ; 13,2
-Goiânia; 19,7 ; 15,3 ; 23,5
-João Pessoa; 18,8 ; 15,6 ; 21,4
-Macapá; 9,2 ; 8,3 ; 10,0
-Maceió; 13,7 ; 13,9 ; 13,6
-Manaus; 15,1 ; 13,0 ; 17,0
-Natal; 19,0 ; 16,9 ; 20,7
-Palmas; 18,0 ; 11,2 ; 24,9
-Porto Alegre; 19,9 ; 16,2 ; 22,9
-Porto Velho; 13,9 ; 13,7 ; 14,2
-Recife; 17,9 ; 15,2 ; 20,1
-Rio Branco; 10,3 ; 8,9 ; 11,7
-Rio de Janeiro; 18,2 ; 15,4 ; 20,6
-Salvador; 12,6 ; 8,5 ; 16,1
-São Luís; 17,5 ; 14,2 ; 20,1
-São Paulo; 20,4 ; 17,7 ; 22,8
-Teresina; 15,2 ; 14,4 ; 15,9
-Vitória; 20,8 ; 18,0 ; 23,1
-Distrito Federal; 24,8 ; 23,7 ; 25,8
+Cidade, Total, Masculino, Feminino, Região
+Aracaju, 0.163 , 0.140 , 0.182, Nordeste
+Belém, 0.102 , 0.085 , 0.116, Norte
+Belo Horizonte, 0.245 , 0.206 , 0.278, Sudeste
+Boa Vista, 0.124 , 0.103 , 0.144, Norte
+Campo Grande, 0.181 , 0.140 , 0.218, Centro-Oeste
+Cuiabá, 0.154 , 0.109 , 0.195, Centro-Oeste
+Curitiba, 0.196 , 0.158 , 0.229, Sul
+Florianópolis, 0.248 , 0.197 , 0.294, Sul
+Fortaleza, 0.118 , 0.101 , 0.132, Nordeste
+Goiânia, 0.197 , 0.153 , 0.235, Centro-Oeste
+João Pessoa, 0.188 , 0.156 , 0.214, Nordeste
+Macapá, 0.092 , 0.083 , 0.10, Norte
+Maceió, 0.137 , 0.139 , 0.136, Nordeste
+Manaus, 0.151 , 0.130 , 0.170, Norte
+Natal, 0.190 , 0.169 , 0.207, Nordeste
+Palmas, 0.180 , 0.112 , 0.249, Norte
+Porto Alegre, 0.199 , 0.162 , 0.229, Sul
+Porto Velho, 0.139 , 0.137 , 0.142, Norte
+Recife, 0.179 , 0.152 , 0.201, Nordeste
+Rio Branco, 0.103 , 0.089 , 0.117, Norte
+Rio de Janeiro, 0.182 , 0.154 , 0.206, Sudeste
+Salvador, 0.126 , 0.085 , 0.161, Nordeste
+São Luís, 0.175 , 0.142 , 0.201, Nordeste
+São Paulo, 0.204 , 0.177 , 0.228, Sudeste
+Teresina, 0.152 , 0.144 , 0.159, Nordeste
+Vitória, 0.208 , 0.180 , 0.231, Sudeste
+Distrito Federal, 0.248 , 0.237 , 0.258, Centro-Oeste
