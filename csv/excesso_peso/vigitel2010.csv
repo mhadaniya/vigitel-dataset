@@ -1,28 +1,28 @@
-Cidade,Total,Masculino,Feminino
-Aracaju,47.2,48.9,45.6
-Belém, 46.2 , 52.2 , 40.3
-Belo Horizonte, 44.7 , 47.0 , 42.5
-Boa Vista, 45.9 , 48.2 , 43.3
-Campo Grande, 51.2 , 54.2 , 48.2
-Cuiabá, 50.4 , 54.1 , 46.6
-Curitiba, 48.8 , 56.0 , 42.3
-Florianópolis, 46.3 , 54.2 , 38.9
-Fortaleza, 52.3 , 54.0 , 50.8
-Goiânia, 44.6 , 51.9 , 37.5
-João Pessoa, 49.6 , 53.7 , 45.7
-Macapá, 48.7 , 53.5 , 43.5
-Maceió, 46.0 , 51.2 , 40.6
-Manaus, 49.6 , 52.2 , 46.9
-Natal, 48.9 , 50.4 , 47.5
-Palmas, 36.6 , 42.2 , 30.0
-Porto Alegre, 50.8 , 53.7 , 48.4
-Porto Velho, 51.8 , 54.9 , 48.2
-Recife, 49.8 , 55.0 , 45.1
-Rio Branco, 55.2 , 60.5 , 49.4
-Rio de Janeiro, 52.7 , 56.5 , 49.1
-Salvador, 40.3 , 40.1 , 40.4
-São Luís, 40.8 , 46.0 , 35.9
-São Paulo, 48.5 , 51.1 , 46.0
-Teresina, 43.2 , 53.9 , 33.4
-Vitória, 45.6 , 52.7 , 39.3
-Distrito Federal, 44.7 , 58.4 , 31.2
+Cidade;Total;Masculino;Feminino
+Aracaju;47,2;48,9;45,6
+Belém; 46,2 ; 52,2 ; 40,3
+Belo Horizonte; 44,7 ; 47,0 ; 42,5
+Boa Vista; 45,9 ; 48,2 ; 43,3
+Campo Grande; 51,2 ; 54,2 ; 48,2
+Cuiabá; 50,4 ; 54,1 ; 46,6
+Curitiba; 48,8 ; 56,0 ; 42,3
+Florianópolis; 46,3 ; 54,2 ; 38,9
+Fortaleza; 52,3 ; 54,0 ; 50,8
+Goiânia; 44,6 ; 51,9 ; 37,5
+João Pessoa; 49,6 ; 53,7 ; 45,7
+Macapá; 48,7 ; 53,5 ; 43,5
+Maceió; 46,0 ; 51,2 ; 40,6
+Manaus; 49,6 ; 52,2 ; 46,9
+Natal; 48,9 ; 50,4 ; 47,5
+Palmas; 36,6 ; 42,2 ; 30,0
+Porto Alegre; 50,8 ; 53,7 ; 48,4
+Porto Velho; 51,8 ; 54,9 ; 48,2
+Recife; 49,8 ; 55,0 ; 45,1
+Rio Branco; 55,2 ; 60,5 ; 49,4
+Rio de Janeiro; 52,7 ; 56,5 ; 49,1
+Salvador; 40,3 ; 40,1 ; 40,4
+São Luís; 40,8 ; 46,0 ; 35,9
+São Paulo; 48,5 ; 51,1 ; 46,0
+Teresina; 43,2 ; 53,9 ; 33,4
+Vitória; 45,6 ; 52,7 ; 39,3
+Distrito Federal; 44,7 ; 58,4 ; 31,2
